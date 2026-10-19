@@ -1,0 +1,9 @@
+$kind: http-request
+name: https://dummyjson.com/products/add
+description: ""
+url: https://dummyjson.com/products/add
+method: POST
+body:
+  type: json
+  content: '{ "title": "My Test Product", "price": 100 }'
+order: 2000

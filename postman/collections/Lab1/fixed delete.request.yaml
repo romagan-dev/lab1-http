@@ -1,0 +1,5 @@
+$kind: http-request
+description: ""
+url: https://dummyjson.com/products/1
+method: DELETE
+order: 4000
